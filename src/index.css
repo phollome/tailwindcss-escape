@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.half-width {
+  @apply w-1/2;
+}
+
+.quarter-width {
+  @apply w-1/4;
+}
